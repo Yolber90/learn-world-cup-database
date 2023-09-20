@@ -1,0 +1,28 @@
+ test_id |   test_name   
+---------+---------------
+      53 | France
+      54 | Belgium
+      55 | Croatia
+      56 | Russia
+      57 | England
+      58 | Brazil
+      59 | Uruguay
+      60 | Colombia
+      61 | Sweden
+      62 | Japan
+      63 | Mexico
+      64 | Denmark
+      65 | Spain
+      66 | Portugal
+      67 | Argentina
+      68 | Germany
+      69 | Netherlands
+      70 | Costa Rica
+      71 | Chile
+      72 | Nigeria
+      73 | Algeria
+      74 | Greece
+      75 | Switzerland
+      76 | United States
+(24 rows)
+
